@@ -1,7 +1,7 @@
 const CACHE_NAME = 'nome-do-seu-cache';
 const urlsToCache = [
   '/index.html',
-  '/styles.css',
+  '/style.css',
   // Inclua outros recursos que deseja armazenar em cache
 ];
 
